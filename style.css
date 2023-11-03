@@ -1,10 +1,10 @@
-/* *{
-    font-family: ;
-    /* margin-bottom: 100px; */
- */
+*{
+    font-family:'Montserrat', sans-serif ;
+
+}
 body{
     background:f1fbff;
-    /* margin-bottom: 100px;  */
+    
 }
 .section-padding{
     padding: 100px 0;
@@ -83,12 +83,6 @@ font-size: 50px;
 .team .card{
     box-shadow: 15px 15px 40px rgba(0,0,0,0.15);
 }
-
-
-
-
-
-
 @media only screen and(min-width:768px) and (max-width:991px){
     .carousel-caption{
         bottom: 370px;
